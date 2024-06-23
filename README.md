@@ -1,4 +1,4 @@
-#  基于微博数据的数据分析网站，Python+Django+Vue3，内附爬虫代码和数据源，数据库采用MySQL
+#  基于微博数据的舆情分析平台，Python+Django+Vue3，内附爬虫代码和数据源，数据库采用MySQL
 
 ### 项目说明：
 
